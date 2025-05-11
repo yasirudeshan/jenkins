@@ -22,4 +22,5 @@ public class SpringJenkinsApplication {
 	}
 
 	//this is the new change
+	//here's another change in order to check the auto building process.
 }
